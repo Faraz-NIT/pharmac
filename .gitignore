@@ -20,6 +20,10 @@ dist-ssr
 .env
 .env.*
 
+# Vercel
+.vercel
+api/server.js
+
 # Wrangler / Cloudflare
 .wrangler/
 .dev.vars

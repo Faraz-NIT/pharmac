@@ -21,7 +21,7 @@ dist-ssr
 .env.*
 
 # Vercel
-.vercel
+.vercel/output
 api/server.js
 
 # Wrangler / Cloudflare

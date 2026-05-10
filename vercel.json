@@ -1,8 +1,4 @@
 {
   "version": 2,
-  "buildCommand": "npm run build:vercel",
-  "outputDirectory": "dist/client",
-  "rewrites": [
-    { "source": "/(.*)", "destination": "/api/server" }
-  ]
+  "buildCommand": "npm run build:vercel"
 }
